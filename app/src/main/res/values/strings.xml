@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">assesment</string>
+    <string name="entered_number_is">ENTERED NUMBER IS</string>
+    <string name="element">ELEMENT</string>
+    <string name="enter_a_number_from_above_list">ENTER A NUMBER FROM ABOVE LIST</string>
+    <string name="ok">OK</string>
+    <string name="_2_3_10_15_26_35_50_63">2,3,10,15,26,35,50,63</string>
+</resources>
